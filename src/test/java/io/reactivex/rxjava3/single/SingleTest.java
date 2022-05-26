@@ -31,6 +31,9 @@ import io.reactivex.rxjava3.schedulers.Schedulers;
 import io.reactivex.rxjava3.subscribers.TestSubscriber;
 import io.reactivex.rxjava3.testsupport.*;
 
+/**
+ * Completed.
+ */
 public class SingleTest extends RxJavaTest {
 
     @Test
